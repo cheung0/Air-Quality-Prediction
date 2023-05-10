@@ -7,7 +7,7 @@ Actually more like analyzing air quality, since the weather forecast is lot bett
 I analyzed 1678 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from all the Bay Area. The average AQI for weekends was 22.38 and the average for weekdays 23.15. A 0.6 vs a 0.77 difference. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
 
 ## Graph of Result
-![Screenshot 2023-05-10 at 2 03 18 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/a3454580-0bf0-4dd0-bc4f-f55ecd70c31d)
+![Screenshot 2023-05-10 at 2 09 28 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f7736b2f-e241-418b-b75c-e9ff960930a5)
 
 ## Conclusion
 
