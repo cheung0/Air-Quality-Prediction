@@ -7,7 +7,7 @@ Note: It's actually more like analyzing air quality, since the weather forecast 
 ## Graph of Results
 ![Screenshot 2023-05-10 at 2 28 20 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/00fdc0e1-6299-44a0-b6c0-77e874364f68)
 
-![Screenshot 2023-05-10 at 2 32 54 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/e1f6fecc-f1a9-4824-9ef6-b2d5c5634e00)
+![Screenshot 2023-05-10 at 2 37 23 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/806bd358-b1f1-4ffc-be21-33dad713440a)
 
 
 ## How I did it
