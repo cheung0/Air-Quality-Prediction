@@ -24,6 +24,9 @@ I analyzed 128,077 data samples from air quality sensor data around California d
 
 ![Screenshot 2023-05-10 at 5 06 34 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/fd7a295d-afee-4f4d-aa33-5e4a79363ee5)
 
+I also noticed PM2.5 was highly correlated with AQI. This is a pretty funny observation, since AQI is calculated from PM2.5 levels.
+
+![Screenshot 2023-05-10 at 5 11 44 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/4c89e37b-9550-4063-9880-5f6090c77347)
 
 
 ## Conclusion
