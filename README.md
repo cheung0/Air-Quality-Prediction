@@ -1,7 +1,7 @@
 # Predicting-Air-Quality
 ## Intro
 
-We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in 128,000 data points from around California. I'm not entirely sure why that is so far. This is my data science / machine learning project exploration over 2 days.
+We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. Therefore, you might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is so far. This is my data science / machine learning project exploration over 2 days. 
 
 ## Graph of Results for the Bay Area
 ![Screenshot 2023-05-10 at 2 28 20 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/00fdc0e1-6299-44a0-b6c0-77e874364f68)
