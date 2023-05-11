@@ -39,7 +39,7 @@ I trained a linear regression model to predict the AQI based on input with PM2.5
 ## Analysis for Alameda County
 Graph of weekend vs weekday data without outliers.
 
-<img width="552" alt="Screen Shot 2023-05-11 at 1 50 32 PM" src="https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/bc3abc40-6bcd-49bc-b878-285e890ae6e0">
+<img width="577" alt="Screen Shot 2023-05-11 at 1 53 06 PM" src="https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/37a9fde5-6761-42a8-be00-af3f7e2795d8">
 
 ## Conclusion
 
