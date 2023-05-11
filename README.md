@@ -28,6 +28,11 @@ I also noticed PM2.5 was highly correlated with AQI. This is a pretty funny obse
 
 ![Screenshot 2023-05-10 at 5 11 44 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/4c89e37b-9550-4063-9880-5f6090c77347)
 
+## Machine Learning on California Air Quality
+### Data Engineering
+I normalized Air Quality and PM2.5 and one hot encoded day of week. 
+
+
 
 ## Conclusion
 
