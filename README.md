@@ -11,9 +11,11 @@ We all have fundamental needs, such as food, water, love, and clean air. Practic
 ## Graph of Results for California
 ![Screenshot 2023-05-10 at 4 56 10 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/039c61ba-6159-4853-939b-dc1fbe1dd081)
 
-![Screenshot 2023-05-10 at 4 56 22 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/fba82507-c1e9-40d1-87eb-12543ecdd8dc)
+![Screenshot 2023-05-10 at 6 28 12 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/29eeddd8-10bc-4110-9357-0af9d621f8ed)
 
 ![Screenshot 2023-05-10 at 5 00 56 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f0c47c7d-c950-43a7-8feb-1e7743f24a1a)
+
+![Screenshot 2023-05-10 at 6 28 41 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/9eab993d-5f01-4504-b49b-21b6842feaeb)
 
 
 ## Analysis for the Bay Area
