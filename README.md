@@ -32,10 +32,12 @@ I also noticed PM2.5 was highly correlated with AQI. This is a pretty funny obse
 I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the other columns that do not play a role in predicting air quality, such as site longitude / latitude, side id, etc. 
 
 ### Machine Learning
-I trained a linear regression model to predict the AQI based on input with PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data.
+I trained a linear regression model to predict the AQI based on input with PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. Based on the evaluation metrics for the train and test sets, the model seems to be performing reasonably well for AQI prediction.
 
 ![Screenshot 2023-05-11 at 3 43 14 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f2117fa5-e5c1-439a-b646-8a576f6f4dd2)
 
+![Screenshot 2023-05-11 at 3 44 38 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/6bb65ba6-dbd6-45c2-991a-8c2b723b63dd)
+
 ## Conclusion
 
-The small, individual actions of each and every single one of us can cause big, large actions in the environment. I acknowledge that I might be wrong about the increased traffic on weekdays and analysis and my data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory.
+The small, individual actions of each and every single one of us can cause big, large actions in the environment. I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
