@@ -17,9 +17,7 @@ We all have fundamental needs, such as food, water, love, and clean air. Practic
 I analyzed 1678 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 (0 - 50 is a good AQI) and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from all the Bay Area. The average AQI for weekends was 22.38 and the average for weekdays 23.15. A 0.6 and a 0.77 difference. Then I looked at the data for PM 2.5 μg/m3 levels. I noticed that weekends were slightly higher, by 0.16, on avgerage. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
 
 ## Analysis for California
-I analyzed 128,077 data samples from air quality sensor data around California during 2023. I found out that the average AQI for weekdays was 34.07 and for weekends 34.84. I also found out that the difference in air quality between weekends and weekdays to be statistically significant. Meaning there is a noticeable difference in air quality between weekends and weekdays.
-
-![Screenshot 2023-05-10 at 5 06 34 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/fd7a295d-afee-4f4d-aa33-5e4a79363ee5)
+I analyzed 128,077 data samples from air quality sensor data around California during 2023. I found out that the average AQI for weekdays was 34.07 and for weekends 34.84. 
 
 I also noticed PM2.5 was highly correlated with AQI. This is a pretty funny observation, since AQI is calculated from PM2.5 levels.
 
