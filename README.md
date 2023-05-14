@@ -1,7 +1,7 @@
 # Predicting-Air-Quality
 ## Intro
 
-We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. You might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is. This is my data science / machine learning project exploration on air quality.
+We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. You might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is. I trained a linear regression and decision tree machine learning algorithm to predict the AQI based on the amount of PM2.5 and the day of week. The decision tree model has the best performance, with an MSE (Mean Squared Error) of 0.10 on the test set. This is my data science / machine learning project exploration on air quality.
 
 ## Graph of Results for California
 ![Screenshot 2023-05-10 at 6 28 12 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/29eeddd8-10bc-4110-9357-0af9d621f8ed)
