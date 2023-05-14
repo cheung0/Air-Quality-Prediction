@@ -27,7 +27,11 @@ I also noticed PM2.5 was highly correlated with AQI. This is a pretty funny obse
 ### Data Engineering
 I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the other columns that do not play a role in predicting air quality, such as site longitude / latitude, side id, etc. 
 
-### Machine Learning
+### Decision Tree
+![Screenshot 2023-05-14 at 4 06 14 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/d1302b24-eb54-4a0c-b16e-7b748bedbb3b)
+
+
+### Linear Regression
 I trained a linear regression model to predict the AQI based on input with PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. Based on the evaluation metrics for the train and test sets, the model seems to be performing reasonably well for AQI prediction.
 
 ![Screenshot 2023-05-11 at 3 44 38 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/6bb65ba6-dbd6-45c2-991a-8c2b723b63dd)
