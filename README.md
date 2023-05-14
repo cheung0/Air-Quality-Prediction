@@ -1,7 +1,7 @@
 # Predicting-Air-Quality
 ## Intro
 
-We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. You might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is. I trained a linear regression and decision tree machine learning algorithm to predict the AQI based on the amount of PM2.5 and the day of week. The decision tree model has the best performance, with an MSE (Mean Squared Error) of 0.10 on the test set. This is my data science / machine learning project exploration on air quality.
+We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. You might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is. I trained a linear regression and decision tree machine learning algorithm to predict the AQI based on the amount of PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. The decision tree model has the best performance, with an MSE (Mean Squared Error) of 0.10 on the test set. This is my data science / machine learning project exploration on air quality.
 
 ## Graph of Results for California
 ![Screenshot 2023-05-10 at 6 28 12 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/29eeddd8-10bc-4110-9357-0af9d621f8ed)
@@ -24,6 +24,7 @@ I analyzed 128,077 data samples from air quality sensor data around California d
 ### Data Engineering
 I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the other columns that do not play a role in predicting air quality, such as site longitude / latitude, side id, etc. 
 
+
 ### Decision Tree
 ![Screenshot 2023-05-14 at 4 32 53 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/a48765c0-0014-442a-a3d1-256bfa2aec13)
 
@@ -32,7 +33,6 @@ I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the
 
 
 ### Linear Regression
-I trained a linear regression model to predict the AQI based on input with PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. Based on the evaluation metrics for the train and test sets, the model seems to be performing reasonably well for AQI prediction.
 
 ![Screenshot 2023-05-11 at 3 43 14 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f2117fa5-e5c1-439a-b646-8a576f6f4dd2)
 
