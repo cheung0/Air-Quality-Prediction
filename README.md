@@ -28,6 +28,7 @@ I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the
 ### Decision Tree
 ![Screenshot 2023-05-14 at 4 32 53 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/a48765c0-0014-442a-a3d1-256bfa2aec13)
 
+![Screenshot 2023-05-15 at 1 30 10 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/931078c0-34b2-477e-ad98-8aac663ef923)
 
 ![Screenshot 2023-05-14 at 4 06 14 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/d1302b24-eb54-4a0c-b16e-7b748bedbb3b)
 
