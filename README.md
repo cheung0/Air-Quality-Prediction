@@ -4,7 +4,13 @@
 We all have fundamental needs, such as food, water, love, and clean air. Practical takeaway from my findings if you live in the Bay Area like I do: air quality is better on weekends. You might want to open your windows for fresh air on Saturdays and Sundays. Another takeway is that the opposite is true when you factor in more data points from around California. I'm not entirely sure why that is. I trained a linear regression and decision tree machine learning algorithm to predict the AQI based on the amount of PM2.5 and the day of week. This is useful because day of week and PM2.5 is correlated with air quality and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. The decision tree model has the best performance, with an MSE (Mean Squared Error) of 0.10 on the test set. This is my data science / machine learning project exploration on air quality.
 
 ## Business Plan
-I asked chat GPT to write it up, but it was too long. So the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our custom, unique, machine learning algorithm. If you still want to see the business plan, I'll send you the chat GPT response. 
+I asked chat GPT to write it up, but it was too long. So the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our custom, unique, machine learning algorithm. If you still want to see the business plan, I'll send you the chat GPT response. High quality AQI sensors cost $800 to $3000. Most of the world, even in developed countries and cities, cannot afford that. Our high quality air quality sensor costs $197. Our regular air quality sensor costs $40. High quality PM2.5 sensors cost $100 and the Machine Learning microcontroller cost $50.
+
+Infographic below (inspired by Costco's coconut water):
+Air Quality Sensor?
+Why?
+Informs you if you should open windows or wear mask outside for your health.
+Uses Machine Learning, the technology of the future, to help you.
 
 ## Graph of Results for California
 ![Screenshot 2023-05-10 at 6 28 12 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/29eeddd8-10bc-4110-9357-0af9d621f8ed)
@@ -17,7 +23,7 @@ I asked chat GPT to write it up, but it was too long. So the elevator pitch is: 
 ![Screenshot 2023-05-10 at 2 28 20 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/00fdc0e1-6299-44a0-b6c0-77e874364f68)
 
 ## Analysis for the Bay Area
-I analyzed 1678 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 (0 - 50 is a good AQI) and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from all the Bay Area. The average AQI for weekends was 22.38 and the average for weekdays 23.15. A 0.6 and a 0.77 difference. Then I looked at the data for PM 2.5 μg/m3 levels. I noticed that weekends were slightly higher, by 0.16, on avgerage. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
+I analyzed 1678 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 (0 - 50 is a good AQI) and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from all the Bay Area. The average AQI for weekends was 22.38 and the average for weekdays 23.15. A 0.6 and a 0.77 difference. Then I looked at the data for PM 2.5 μg/m3 levels. I noticed that weekends were slightly higher, by 0.16, on average. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
 
 ## Analysis for California
 I analyzed 128,077 data samples from air quality sensor data around California during 2023. I found out that the average AQI for weekdays was 34.07 and for weekends 34.84. 
