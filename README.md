@@ -5,6 +5,11 @@ We all have fundamental needs, such as food, water, love, and clean air. Practic
 ## Business Plan
 I asked chat GPT to write it up, but it was too long. So the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our unique machine learning algorithm. If you still want to see the business plan, I'll send you the chat GPT response. High quality AQI sensors cost $800 to $3000. Most of the world, including developed countries and cities, cannot afford that. Our high quality air quality sensor costs only $197, which is 4 x cheaper than high quality AQI sensors. As for our standard air quality sensor? It only costs $40. The costs associated with the AQI sensor depends on the PM2.5 sensor quality (high quality or standard) and the Machine Learning microcontroller. 
 
+The device would be a Machine Learning microcontroller hooked up with a PM2.5 sensor.
+![Screenshot 2023-05-18 at 12 53 57 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/29188619-8c98-4dd3-8914-84e3d1ed94c3)
+
+![Screenshot 2023-05-18 at 12 55 01 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/9a6197f1-274b-4f4c-a4cd-bc01b0141976)
+
 Sales infographic below (inspired by Costco's coconut water):
 Air Quality Sensor?
 Why?
