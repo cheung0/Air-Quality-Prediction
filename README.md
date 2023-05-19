@@ -30,7 +30,9 @@ Uses Machine Learning, the technology of the future, to help you.
 
 ![Screenshot 2023-05-19 at 2 07 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/c91c4706-1bd7-4a14-aaa0-4d14386ce499)
 
-![Screenshot 2023-05-19 at 2 11 10 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/34e22001-fe75-4622-98a2-2716296baa9e)
+![Screenshot 2023-05-19 at 2 13 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/4c2ae099-f712-44cd-884e-4a5e07bbe2a6)
+
+![Screenshot 2023-05-19 at 2 13 55 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/5786f6c2-d9b0-484f-825a-1fb1ef785a14)
 
 
 ## Graph of Results for the Bay Area
@@ -42,7 +44,12 @@ I analyzed 1678 data samples from air quality sensor data around the Bay Area du
 I analyzed 128,077 data samples from air quality sensor data around California during 2023. I found out that the average AQI for weekdays was 34.07 and for weekends 34.84. 
 
 
-## Machine Learning on California Air Quality
+## Machine Learning on California Air Quality 
+### Time Series 
+Not working yet. I'm thinking of using an XGBoost model on top of a linear regression time series forecasting prediction model. 
+![Screenshot 2023-05-19 at 2 18 27 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/868238d6-1198-4417-86aa-c8fc76e79764)
+
+
 ### Data Engineering
 I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the other columns that do not play a role in predicting air quality, such as site longitude / latitude, side id, etc. 
 
