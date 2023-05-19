@@ -39,14 +39,25 @@ Uses Machine Learning, the technology of the future, to help you.
 
 ![Screenshot 2023-05-19 at 2 21 22 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/98391515-1309-48f9-b561-891977e40282)
 
+![Screenshot 2023-05-19 at 2 24 22 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/1c63fb7e-2b72-42c2-bf62-8e8e447351a3)
 
-## Graph of Results for the Bay Area
+![Screenshot 2023-05-19 at 2 25 56 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/60c3df85-4ca6-4ea6-85d6-ef8b65b75c4f)
+
+![Screenshot 2023-05-19 at 2 26 22 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/0b53d20b-8b9e-4661-a6b0-5212fe5f1eea)
+
+![Screenshot 2023-05-19 at 2 29 01 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/95fb1898-0093-4b65-a719-5b2630d45ccc)
+
+![Screenshot 2023-05-19 at 2 29 24 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/3b5e69c7-092b-44b7-a550-32c425cd55d0)
+
+![Screenshot 2023-05-19 at 2 29 37 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/1d392efa-0ad3-485d-b80d-6c84a9bda3a0)
+
+## The Bay Area
 
 ## Analysis for the Bay Area
 I analyzed 1678 data samples from air quality sensor data around the Bay Area during 2023. Some factors that play a role in air quality include: traffic, industrial activity, and environmental factors. For Alameda County specifically, the average AQI for weekends was 23 (0 - 50 is a good AQI) and the average for weekdays 23.6. My sample size wasn't big enough, so I analyzed again with data from all the Bay Area. The average AQI for weekends was 22.38 and the average for weekdays 23.15. A 0.6 and a 0.77 difference. Then I looked at the data for PM 2.5 μg/m3 levels. I noticed that weekends were slightly higher, by 0.16, on average. Again, a small difference appears, but if you use this knowledge and apply it over the span of thousands of days, it can make a big difference in your health and well being.
 
 ## Analysis for California
-I analyzed 128,077 data samples from air quality sensor data around California during 2023. I found out that the average AQI for weekdays was 34.07 and for weekends 34.84. 
+
 
 
 ## Machine Learning on California Air Quality 
@@ -79,6 +90,6 @@ I remember the day the Bay Area sky turned into a thick, purple, smog. I remembe
 
 ## Conclusion
 
-The small, individual actions of each and every single one of us can cause big, large actions in the environment. I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
+I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
 
 
