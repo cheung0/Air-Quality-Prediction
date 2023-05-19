@@ -20,7 +20,17 @@ Uses Machine Learning, the technology of the future, to help you.
 
 ![Screenshot 2023-05-19 at 2 05 33 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/44825c1d-b968-4ebc-96e9-d0eabfe79dff)
 
+![Screenshot 2023-05-19 at 2 06 33 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/5d4f47e5-24be-431c-b842-f18367ba1b2e)
 
+![Screenshot 2023-05-19 at 2 07 00 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/01110808-0741-4f91-873b-05e6fcf36ce0)
+
+![Screenshot 2023-05-19 at 2 07 16 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/1359b359-25e7-4628-93d1-22e2d20cc083)
+
+![Screenshot 2023-05-19 at 2 07 28 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/de11b047-ebb5-4d58-b2ac-e47d83b3398b)
+
+![Screenshot 2023-05-19 at 2 07 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/c91c4706-1bd7-4a14-aaa0-4d14386ce499)
+
+![Screenshot 2023-05-19 at 2 11 10 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/34e22001-fe75-4622-98a2-2716296baa9e)
 
 
 ## Graph of Results for the Bay Area
