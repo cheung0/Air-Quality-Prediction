@@ -69,18 +69,6 @@ I analyzed 1678 data samples from air quality sensor data around the Bay Area du
 
 
 
-
-
-
-### Time Series 
-Not working yet. I'm thinking of using an XGBoost model on top of a linear regression time series forecasting prediction model. 
-![Screenshot 2023-05-19 at 2 18 27 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/868238d6-1198-4417-86aa-c8fc76e79764)
-
-
-### Data Engineering
-I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the other columns that do not play a role in predicting air quality, such as site longitude / latitude, side id, etc. 
-
-
 ### Decision Tree
 ![Screenshot 2023-05-14 at 4 32 53 PM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/a48765c0-0014-442a-a3d1-256bfa2aec13)
 
