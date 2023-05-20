@@ -81,10 +81,11 @@ I normalized Air Quality and PM2.5, one hot encoded day of week, and deleted the
 
 ![Screenshot 2023-05-11 at 3 43 14 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f2117fa5-e5c1-439a-b646-8a576f6f4dd2)
 
-## Analysis for Alameda County
-Graph of weekend vs weekday data without outliers.
+### Ideas
+XGBoost can be effective for time series prediction, there are other specialized models and techniques specifically designed for time series forecasting, such as autoregressive integrated moving average (ARIMA), recurrent neural networks (RNNs), or long short-term memory (LSTM) networks. Depending on the specific characteristics and complexity of your time series data, these models may provide better performance.
+Linear regression, 
+XGBoost, ARIMA, Prophet, RNN, LSTM, FML
 
-<img width="577" alt="Screen Shot 2023-05-11 at 1 53 06 PM" src="https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/37a9fde5-6761-42a8-be00-af3f7e2795d8">
 
 ## Story
 I remember the day the Bay Area sky turned into a thick, purple, smog. I remember stepping out of my home and choking on the very air I was breathing. Air quality is definitely a problem we as a society need to solve. 
