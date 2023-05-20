@@ -63,9 +63,6 @@ Using a time series forecasting perspective, the data fluctuates and shows signs
 
 
 
-### Linear Regression
-
-![Screenshot 2023-05-11 at 3 43 14 AM](https://github.com/cheung0/Predicting-Air-Quality/assets/56772737/f2117fa5-e5c1-439a-b646-8a576f6f4dd2)
 
 ### Ideas
 XGBoost can be effective for time series prediction, there are other specialized models and techniques specifically designed for time series forecasting, such as autoregressive integrated moving average (ARIMA), recurrent neural networks (RNNs), or long short-term memory (LSTM) networks. Depending on the specific characteristics and complexity of your time series data, these models may provide better performance.
