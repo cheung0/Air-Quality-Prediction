@@ -54,13 +54,12 @@ Uses Machine Learning, the technology of the future, to help you.
 
 ## The Bay Area
 
-## Analysis
+## Los Angeles Analysis
+Using a time series forecasting perspective, the data fluctuates and shows signs of patterns. The date can be used as a feature variable. The AQI and PM2.5 concentration on weekends is lower than weekdays, showing us that we can use day of week as a feature variable. PM2.5 has a 0.88 correlation with AQI because PM2.5 is one of the 5 particulate matters used to calculate AQI, so PM2.5 is a feature variable as well.
 
 ## Machine Learning on California Air Quality 
 ### Time Series and XGBoost Tree
-![Screenshot 2023-05-20 at 1 06 24 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/d2d4eaf9-913b-490b-aa5d-09e2ea32a808)
-
-
+![Screenshot 2023-05-20 at 1 58 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/526b1724-f5ff-48e6-b0ef-bb257145a995)
 
 
 
