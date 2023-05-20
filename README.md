@@ -62,6 +62,16 @@ I analyzed 1678 data samples from air quality sensor data around the Bay Area du
 
 
 ## Machine Learning on California Air Quality 
+### Time Series and XGBoost Tree
+![Screenshot 2023-05-20 at 1 06 24 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/d2d4eaf9-913b-490b-aa5d-09e2ea32a808)
+
+
+
+
+
+
+
+
 ### Time Series 
 Not working yet. I'm thinking of using an XGBoost model on top of a linear regression time series forecasting prediction model. 
 ![Screenshot 2023-05-19 at 2 18 27 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/868238d6-1198-4417-86aa-c8fc76e79764)
