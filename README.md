@@ -4,7 +4,7 @@ We all have fundamental needs, such as food, water, and clean air. Practical tak
 
 I trained an XG Boost Regressor Tree model on predicting AQI based on PM2.5 concentration, distance as measured by the Haversine formula, location, date, and holiday.
 
-This is useful because PM2.5, location, date, etc. can predict air quality very well and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. The XGBoost Regressor model has the best performance, with an MSE (Mean Squared Error) of 0.003 on the test set. This is my personal project on air quality with Machine Learning. 
+This is useful because PM2.5, location, date, etc. can predict air quality very well and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. The XGBoost Regressor model has the best performance with an MSE (Mean Squared Error) of 0.003 and an R2 score of 0.99 on the test set. This is my personal project on air quality with Machine Learning. 
 
 ## Practical Things You Can Do
 My research shows that weekends in the Bay Area and Los Angeles have significantly better air quality. California, in general, too. I’m hypothesizing that it’s because of less work, there's less traffic and less industrial emissions. 
@@ -109,5 +109,7 @@ I acknowledge that my analysis might be wrong and the data from the US EPA gov w
 
 "Angular distance gives info about the circular nature of weeks and the actual distance between the days."
 https://www.mikulskibartosz.name/time-in-machine-learning/
+
+Andrew Ng's Machine Learning course
 
 google and chat gpt
