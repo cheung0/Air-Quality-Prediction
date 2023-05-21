@@ -7,7 +7,7 @@ The objective is to train a machine learning model to predict the AQI based on P
 My research shows that weekends in the Bay Area and Los Angeles have significantly better air quality. California, in general, too. I’m hypothesizing that it’s because of less work, there's less traffic and less industrial emissions. 
 
 ## Business Plan for Device
-o the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our unique machine learning algorithm. 
+We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our unique machine learning algorithm. 
 
 Sales infographic below (inspired by Costco's coconut water):
 Air Quality Sensor?
