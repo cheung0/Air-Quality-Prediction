@@ -7,7 +7,7 @@ The objective is to train a machine learning model to predict the AQI based on P
 My research shows that weekends in the Bay Area and Los Angeles have significantly better air quality. California, in general, too. I’m hypothesizing that it’s because of less work, there's less traffic and less industrial emissions. 
 
 ## Business Plan for Device
-I asked chat GPT to write it up, but it was too long. So the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our unique machine learning algorithm. If you still want to see the business plan, I'll send you the chat GPT response. High quality AQI sensors cost $800 to $3000. Most of the world, including developed countries and cities, cannot afford that. Our high quality air quality sensor costs only $197, which is 4 x cheaper than high quality AQI sensors. As for our standard air quality sensor? It only costs $40. The costs associated with the AQI sensor depends on the PM2.5 sensor quality (high quality or standard) and the Machine Learning microcontroller. 
+o the elevator pitch is: We are gonna sell air quality sensors that are a lot cheaper and better quality than existing sensors because of our unique machine learning algorithm. 
 
 Sales infographic below (inspired by Costco's coconut water):
 Air Quality Sensor?
