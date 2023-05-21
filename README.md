@@ -76,8 +76,16 @@ I used the Haversine formula to calculate the distance between two places with l
 
 ![Screenshot 2023-05-21 at 1 59 00 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/c1257a7e-babb-4efa-9ab2-250a97e6c2a0)
 
-Without PM2.5 in the model, angular distance, site location, date, and holiday seem to be important features.
+Without PM2.5 in the model:
+Angular distance, site location, date, and holiday seem to be moderately important features.
+
 ![Screenshot 2023-05-21 at 2 00 51 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/ef8bc622-6f6e-4df7-9b8e-10d689ac4fc9)
+
+![Screenshot 2023-05-21 at 2 07 01 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/cc4873ef-d974-40c2-bb25-9585a50d1b5c)
+
+With only PM2.5:
+PM2.5 seems to be able to explain AQI extremely well. The error metrics are close to 0, with mean absolute error being around 0.003. 
+![Screenshot 2023-05-21 at 2 09 10 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/457b235c-76ef-4ab6-93b1-8b5ccd922d3b)
 
 
 ### Ideas
