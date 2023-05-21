@@ -96,6 +96,9 @@ XGBoost can be effective for time series prediction, there are other specialized
 Linear regression, 
 XGBoost, ARIMA, Prophet, RNN, LSTM, FML
 
+### ARIMA Time Series Forecasting Model
+![Screenshot 2023-05-21 at 2 23 32 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/4b8a1e09-729d-4057-a743-3663ac8779a6)
+
 
 ## Story
 I remember the day the Bay Area sky turned into a thick, purple, smog. I remember stepping out of my home and choking on the very air I was breathing. Air quality is definitely a problem we as a society need to solve. My hope is that with Machine Learning, we can get better and more accurate air quality sensor readings. We already know that our weather forecasts are very good, but whether or not its raining doesn't significantly impact our lives. But knowing whether or not we are breathing hazardous chemicals in our lungs does. 
