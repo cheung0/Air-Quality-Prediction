@@ -68,7 +68,16 @@ Using a time series forecasting perspective, the data fluctuates and shows signs
 ### Time Series and XGBoost Tree
 ![Screenshot 2023-05-20 at 1 58 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/526b1724-f5ff-48e6-b0ef-bb257145a995)
 
+One hot encoding is good in general, but not for day of week in this case. 
 
+I used the Haversine formula to calculate the distance between two places with longitudes and latitudes. The first place being the center of LA and the second being the data point. 
+
+![Screenshot 2023-05-21 at 1 58 49 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/e98c870f-462a-4718-93ee-ee76a166d80c)
+
+![Screenshot 2023-05-21 at 1 59 00 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/c1257a7e-babb-4efa-9ab2-250a97e6c2a0)
+
+Without PM2.5 in the model, angular distance, site location, date, and holiday seem to be important features.
+![Screenshot 2023-05-21 at 2 00 51 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/ef8bc622-6f6e-4df7-9b8e-10d689ac4fc9)
 
 
 ### Ideas
@@ -84,4 +93,8 @@ I remember the day the Bay Area sky turned into a thick, purple, smog. I remembe
 
 I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
 
+## Sources
+"Angular distance gives info about the circular nature of weeks and the actual distance between the days."
+https://www.mikulskibartosz.name/time-in-machine-learning/
 
+google and chat gpt
