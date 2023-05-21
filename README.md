@@ -87,6 +87,9 @@ With only PM2.5:
 PM2.5 seems to be able to explain AQI extremely well. The error metrics are close to 0, with mean absolute error being around 0.003. 
 ![Screenshot 2023-05-21 at 2 09 10 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/457b235c-76ef-4ab6-93b1-8b5ccd922d3b)
 
+With only year:
+Years are values from 2010 - 2022. I wanted to see if my model was actually using the other features to predict AQI and it is.
+![Screenshot 2023-05-21 at 2 13 15 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/601edf21-8b8a-427d-aed0-05790804364a)
 
 ### Ideas
 XGBoost can be effective for time series prediction, there are other specialized models and techniques specifically designed for time series forecasting, such as autoregressive integrated moving average (ARIMA), recurrent neural networks (RNNs), or long short-term memory (LSTM) networks. Depending on the specific characteristics and complexity of your time series data, these models may provide better performance.
