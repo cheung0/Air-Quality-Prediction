@@ -57,7 +57,7 @@ Uses Machine Learning, the technology of the future, to help you.
 ## Los Angeles Analysis
 Notes:
 2010 - 2022 csv file LA data
-1.5 million data points, probably big enough?
+54347 data points, probably big enough?
 XGBoost 
 Linear Regression 
 2023 as additional test set, graph compare with predict, find out good features
