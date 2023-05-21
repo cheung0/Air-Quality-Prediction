@@ -108,6 +108,8 @@ I remember the day the Bay Area sky turned into a thick, purple, smog. I remembe
 I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
 
 ## Sources
+![Screenshot 2023-05-21 at 2 33 14 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/363979a0-bdf7-430e-a394-75ca1bd27aa6)
+
 "Angular distance gives info about the circular nature of weeks and the actual distance between the days."
 https://www.mikulskibartosz.name/time-in-machine-learning/
 
