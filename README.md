@@ -87,7 +87,7 @@ XGBoost, ARIMA, Prophet, RNN, LSTM, FML
 
 
 ## Story
-I remember the day the Bay Area sky turned into a thick, purple, smog. I remember stepping out of my home and choking on the very air I was breathing. Air quality is definitely a problem we as a society need to solve. 
+I remember the day the Bay Area sky turned into a thick, purple, smog. I remember stepping out of my home and choking on the very air I was breathing. Air quality is definitely a problem we as a society need to solve. My hope is that with Machine Learning, we can get better and more accurate air quality sensor readings. We already know that our weather forecasts are very good, but whether or not its raining doesn't significantly impact our lives. But knowing whether or not we are breathing hazardous chemicals in our lungs does. 
 
 ## Conclusion
 
