@@ -1,4 +1,4 @@
-I try to use a mixture of the scientific method and art in improving my model.
+# I try to use a mixture of the scientific method and art in improving my model.
 
 # Geohash doesn't seem to improve model
 !pip install geohash2
