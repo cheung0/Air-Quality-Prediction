@@ -54,18 +54,13 @@ We are gonna sell air quality sensors that are a lot cheaper and better quality 
 ## The Bay Area
 
 ## Los Angeles Analysis
-Notes:
-2010 - 2022 csv file LA data
-54347 data points, probably big enough?
-XGBoost 
-Linear Regression 
-2023 as additional test set, graph compare with predict, find out good features
+Using a time series forecasting perspective, the data fluctuates and shows signs of patterns and trends. 
 
-Using a time series forecasting perspective, the data fluctuates and shows signs of patterns and trends. The date can be used as a feature variable. The AQI and PM2.5 concentration on weekends is lower than weekdays, showing us that we can use day of week as a feature variable. PM2.5 has a 0.88 correlation with AQI because PM2.5 is one of the 5 particulate matters used to calculate AQI, so PM2.5 is a feature variable as well.
-
-## Machine Learning on California Air Quality 
+## Machine Learning on Los Angeles Air Quality 
 ### Time Series and XGBoost Tree
 ![Screenshot 2023-05-20 at 1 58 47 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/526b1724-f5ff-48e6-b0ef-bb257145a995)
+
+The model is trained on 54347 data points from 2010 - 2022, excluding 2021.
 
 One hot encoding is good in general, but not for day of week in this case. 
 
@@ -102,8 +97,13 @@ I remember the day the Bay Area sky turned into a thick, purple, smog. I remembe
 
 
 ## Conclusion
+I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. 
 
-I acknowledge that my analysis might be wrong and the data from the US EPA gov website does attach a disclaimer that some data may be inaccurate and should not be used for governmental advisory. Nontheless, I still learned a lot about data science.
+## Potential Todos
+Add in missing 2021 data. 
+Use API to input even larger dataset. 
+Use 2023 as additional test set, graph compare with predict, find out good features
+Deploy machine learning model to compare with daily data.
 
 ## Sources
 ![Screenshot 2023-05-21 at 2 33 14 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/363979a0-bdf7-430e-a394-75ca1bd27aa6)
