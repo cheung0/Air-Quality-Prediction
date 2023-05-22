@@ -89,9 +89,7 @@ Years are values from 2010 - 2022. I wanted to see if my model was actually usin
 ![Screenshot 2023-05-21 at 2 13 15 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/601edf21-8b8a-427d-aed0-05790804364a)
 
 ### Ideas
-XGBoost can be effective for time series prediction, there are other specialized models and techniques specifically designed for time series forecasting, such as autoregressive integrated moving average (ARIMA), recurrent neural networks (RNNs), or long short-term memory (LSTM) networks. Depending on the specific characteristics and complexity of your time series data, these models may provide better performance.
-Linear regression, 
-XGBoost, ARIMA, Prophet, RNN, LSTM, FML
+Potential Models: Linear regression, XGBoost, ARIMA, Prophet, RNN, LSTM, etc. Currently, Sklearn is being used. Tensorflow may be helpful.
 
 ### ARIMA Time Series Forecasting Model
 ![Screenshot 2023-05-21 at 2 23 32 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/4b8a1e09-729d-4057-a743-3663ac8779a6)
@@ -99,6 +97,7 @@ XGBoost, ARIMA, Prophet, RNN, LSTM, FML
 
 ## Story
 I remember the day the Bay Area sky turned into a thick, purple, smog. I remember stepping out of my home and choking on the very air I was breathing. Air quality is definitely a problem we as a society need to solve. My hope is that with Machine Learning, we can get better and more accurate air quality sensor readings. We already know that our weather forecasts are very good, but whether or not its raining doesn't significantly impact our lives. But knowing whether or not we are breathing hazardous chemicals in our lungs does. 
+
 
 ## Conclusion
 
