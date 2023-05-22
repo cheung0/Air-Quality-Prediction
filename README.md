@@ -1,7 +1,7 @@
 # Predicting Air Quality
 ## Intro
 
-I trained an XG Boost Regressor Tree model on predicting AQI based on feature variables relating to: PM2.5 concentration, distance as measured by the Haversine formula, location, and date. Currently, the model is trained on Los Angeles Air Quality data from 2010 - 2022 and produces highly accurate results.
+I trained an XG Boost Regressor Tree model on predicting AQI based on feature variables relating to: PM2.5 concentration, distance as measured by the Haversine formula, location, and date. Currently, the algorithm is trained on Los Angeles Air Quality data from 2010 - 2022 and produces highly accurate results.
 
 This is useful because PM2.5, location, date, etc. can predict air quality and PM2.5 sensors are cheaper than more expensive sensors that collect Ozone, PM2.5, PM10, CO, SO2, and NO2 data. The XGBoost Regressor model has the best performance with an MSE (Mean Squared Error) of 0.003 and an R2 score of 0.99 on the test set. This is my personal project on air quality with Machine Learning. 
 
