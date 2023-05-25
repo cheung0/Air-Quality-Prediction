@@ -37,6 +37,9 @@ We are gonna sell air quality sensors that are a lot cheaper and better quality 
 Sorted by month (to see which months have worst AQI): 
 ![Screenshot 2023-05-25 at 1 37 21 AM](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/51f60304-5363-43fa-984a-bd881d2d0f7c)
 
+Statistics indicate summer has worst AQI:
+![Screenshot 2023-05-25 at 1 38 35 AM](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/b03c39ee-6caf-4c44-bc09-1bf0e4166145)
+
 
 ### California
 ![Screenshot 2023-05-19 at 2 20 43 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/00117c1b-ccd1-4292-902e-85651ab6b7f8)
