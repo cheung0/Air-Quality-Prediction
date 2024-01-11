@@ -8,14 +8,12 @@
 
 
 ## Los Angeles
-![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/a9b1d7bc-f503-4c21-8575-a24dd403bc94)
-
-![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/cdc3f53d-9509-425f-a0f6-c219cb6c9542)
-
 ![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/d0ac5a0b-bdb3-4fb7-916c-1f3383310a00)
 
 ![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/19098afd-4ebe-465b-95c9-664128e2b61d)
 
 
 ## Sources
+https://www.epa.gov/outdoor-air-quality-data/download-daily-data 
+
 ![Screenshot 2023-05-21 at 2 33 14 AM](https://github.com/cheung0/California-Air-Quality-Prediction/assets/56772737/363979a0-bdf7-430e-a394-75ca1bd27aa6)
