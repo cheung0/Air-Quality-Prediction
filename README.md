@@ -7,9 +7,10 @@
 5. Machine learning models trained with linear regression, decision tree, and transformer predict AQI (air quality index) fairly well with PM2.5, month, and distance from central LA as features. Linear regression has an R2 score of 0.94, decision tree with 0.99, and transformer with 0.99.
 
 
-## Los Angeles
+## Data Exploratory Analysis
 ![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/d0ac5a0b-bdb3-4fb7-916c-1f3383310a00)
 
+## Machine Learning
 ![image](https://github.com/cheung0/Air-Quality-Prediction/assets/56772737/19098afd-4ebe-465b-95c9-664128e2b61d)
 
 
